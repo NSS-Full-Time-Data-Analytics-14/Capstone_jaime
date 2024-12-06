@@ -44,7 +44,7 @@ I found myself spending a lot of my time cleaning up data and making it useful. 
 
 
 ## Sources
-- [Davidson County Census](https://data.census.gov/profile/Davidson_County,_Tennessee?g=050XX00US47037#populations-and-people) Market
+- [Davidson County Census](https://data.census.gov/profile/Davidson_County,_Tennessee?g=050XX00US47037#populations-and-people)
 - [Fulton County Census](https://data.census.gov/profile/Fulton_County,_Georgia?g=050XX00US13121)
 - [Knox County Census](https://data.census.gov/profile/Knox_County,_Tennessee?g=050XX00US47093)
 - [Shelby County Census](https://data.census.gov/profile/Shelby_County,_Tennessee?g=050XX00US47157)
