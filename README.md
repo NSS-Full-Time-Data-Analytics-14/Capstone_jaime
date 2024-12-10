@@ -50,3 +50,4 @@ I found myself spending a lot of my time cleaning up data and making it useful. 
 - [Shelby County Census](https://data.census.gov/profile/Shelby_County,_Tennessee?g=050XX00US47157)
 - [Housing Market](https://www.zillow.com/research/data/)
 - [Transportation Improvement Plan](https://datanashvillegov-nashville.hub.arcgis.com/maps/28ca2f7318ec49e993bdd4183a52ea7c/about)
+- [Weather](https://www.timeanddate.com/weather/usa/nashville/climate)
