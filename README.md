@@ -1,7 +1,7 @@
 # Capstone_jaime
 
 ## PowerBI Dashboard
-Link: 
+Link: https://app.powerbi.com/view?r=eyJrIjoiZDQ4Y2MzOGItOWM0OC00OTYwLWJjNGEtYmRhMzRjYWQ5MDRkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 
 
@@ -29,7 +29,7 @@ Interest Points:
 1) How much does it cost to purchase a property in the city of Nashville?
 2) Is Davidson County diverse? Is there a healthy mix of ancestral backgrounds?
 3) What kind of job industries are succesful in the area?
-4) Where does most of the working population land in income level?
+4) Where does most of the population land in income level?
 5) How does Davidson County compare to Shelby, Knox, and Fulton?
 6) Is the traffic bad? How do we solve this issue?
 
